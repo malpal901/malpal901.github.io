@@ -5,13 +5,13 @@ description: > # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.travelswithmally.com" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Mallory Shaner
 author-img: profile.png
-about-author: I am a traveler. This is where I describe myself. It can be long or it can be short. 
+about-author: I am a traveler. This is where I describe myself. It can be long or it can be short.
 social-twitter: malpal901
 social-facebook: malloryshaner
 social-linkedin: malloryshaner
@@ -29,6 +29,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jemoji
+  - jekyll-seo-tag
+  - jekyll-feed
 
 paginate: 8
 paginate_path: "/page/:num"
