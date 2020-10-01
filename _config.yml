@@ -20,6 +20,15 @@ discus-identifier: # add your discus identifier
 # Tracker
 analytics: # Google Analytics
 
+# Comments
+fb-app-id: 347501223359472
+comments:
+  provider : "facebook"
+  facebook:
+    appid : 347501223359472
+    num_posts : # 5 (default)
+    colorscheme : # "light" (default), "dark"
+
 # Build Settings
 markdown: kramdown
 plugins:
