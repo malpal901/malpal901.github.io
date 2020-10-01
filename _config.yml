@@ -1,8 +1,6 @@
-title: Hello, world!
+title: Travels with Mally
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Tales of an American who moved to the south of France during the coronavirus pandemic.
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.travelswithmally.com" # the base hostname & protocol for your site, e.g. http://example.com
@@ -10,10 +8,10 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Mallory Shaner
-author-img: profile.png
-about-author: I am a traveler. This is where I describe myself. It can be long or it can be short.
+author-img: profile.jpg
+about-author: I don't have a dog with me or a custom-designed truck, but I do have an insatiable wanderlust and an appreciation for meeting new people and discovering new things.
 social-facebook: malloryshaner
-social-email: mallorywshaner@gmail.com
+social-email: malloryws901@gmail.com
 social-instagram: mal_pallin_around_provence
 
 # Disqus
