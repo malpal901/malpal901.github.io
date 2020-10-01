@@ -1,6 +1,11 @@
 ---
 layout: main
 ---
+
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v8.0&appId=347501223359472&autoLogAppEvents=1" nonce="wR2sz3fF"></script>
+
+
 <article class="article-page">
   <div class="page-content">
     {% if page.img %}
@@ -32,7 +37,9 @@ layout: main
           {% endfor %}
         </div>
       </div>
-      {% include disqus.html %}
+
+      <div class="fb-comments" data-href="https://travelswithmally.com" data-numposts="5" data-width=""></div>
+
     </div> <!-- End Wrap Content -->
   </div> <!-- End Page Content -->
 </article> <!-- End Article Page -->
