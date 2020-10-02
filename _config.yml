@@ -8,26 +8,14 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Mallory Shaner
-author-img: profile.jpg
+author-img: profinle.jpg
 about-author: I don't have a dog with me or a custom-designed truck, but I do have an insatiable wanderlust and an appreciation for meeting new people and discovering new things.
 social-facebook: malloryshaner
 social-email: malloryws901@gmail.com
 social-instagram: mal_pallin_around_provence
 
 # Disqus
-discus-identifier: # add your discus identifier
-
-# Tracker
-analytics: # Google Analytics
-
-# Comments
-fb-app-id: 347501223359472
-comments:
-  provider : "facebook"
-  facebook:
-    appid : 347501223359472
-    num_posts : # 5 (default)
-    colorscheme : # "light" (default), "dark"
+discus-identifier: travels-with-mally-1
 
 # Build Settings
 markdown: kramdown
