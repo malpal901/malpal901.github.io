@@ -3,13 +3,13 @@ layout: post
 title: On Comparison
 date: 2020-10-16
 description:  The importance of comparison - doing it and not doing it.
-img:  IMG_8109.jpg
+img:  IMG_8109.JPG
 fig-caption: Fall in Avignon
 tags: [transition, Provence]
 ---
 I’ve been here two weeks today and it does kind of feel like time has flown. The saying “the days are long but the years are short” really only took meaning for me after college, and it is so real. Fewer tears and fewer times needing to call home or Jack to get myself out of a sadness spiral.
 
-![View from my AirBnB that I think is going to become my apartment!](/assets/img/2020.10.16/D68A0CF2.jpg)
+![View from my AirBnB that I think is going to become my apartment!](/assets/img/2020.10.16/D68A0CF2.JPG)
 
 A lot of little sayings keep me grounded in times of transition. One day at a time is a favorite, as is everything happens for a reason, but another one that my sister reminded me of when I was talking about my crippling FOMO issue is “comparison is the thief of joy.” Joy seems to be something that we talk about a lot more, thanks to Marie Kondo. But her MO is about getting rid of stuff to make space for more joy in your life (an approach I do agree with to an extent). But this idea of comparison being at the root of many of my complaints and woes really spoke to me, and is one I have been keeping in mind while off on this adventure alone.
 
