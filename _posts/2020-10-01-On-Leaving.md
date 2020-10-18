@@ -6,6 +6,7 @@ description:  My thoughts on leaving for France at a very weird time.
 img: paris-springtime.jpeg
 fig-caption: A photo from my last time in France - Paris in May 2017.
 tags: [France, Travel, Departure, Moving]
+comments: True
 ---
 
 As probably everyone who is reading this can guess, I am leaving for France in approximately 6 hours. I am moving there for about 8 or 9 months to teach English to French elementary schoolers in a small town called L'Isle-sur-la-Sorgue. It is known as the Venice of Provence with its waterwheels and rivers, and famous for its antique fairs and weekly market. To say I am excited would be an understatement, but to say that I am apprehensive is also true. I have spent the past year and a half dreaming about this day and this moment, and it looks kind of like I thought it would. It is the days, weeks, and months before that were nothing that I imagined.

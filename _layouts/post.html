@@ -13,6 +13,7 @@ layout: main
         {% endif %}
       </figure>
     </div> <!-- End Page Cover Image -->
+
     {% else %}
     {% endif %}
     <div class="wrap-content">
@@ -33,9 +34,9 @@ layout: main
         </div>
       </div>
 
-
-      {% include disqus.html %}
-
+      {% if page.comments %}
+        {% include disqus.html %}
+      {% endif %}
 
     </div> <!-- End Wrap Content -->
   </div> <!-- End Page Content -->
