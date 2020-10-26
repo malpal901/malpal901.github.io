@@ -1405,10 +1405,8 @@ a.newer-posts:hover {
     margin: 10px auto auto;
   }
   .about img {
-    width: 100px;
-    height: 100px;
-    -webkit-border-radius: 100%;
-            border-radius: 100%;
+    width: 150px;
+    height: auto;
     margin-bottom: 10px;
   }
   .content-box {
