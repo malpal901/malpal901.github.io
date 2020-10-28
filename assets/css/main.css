@@ -1294,14 +1294,11 @@ a.newer-posts:hover {
 .post-img {
   width: 25%;
   height: auto;
-  padding-bottom: 10px;
 }
 .post-img.block {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 20px;
-  margin-bottom: 20px;
   width: 55%;
 }
 .post-img.block img {
@@ -1325,11 +1322,9 @@ a.newer-posts:hover {
   font-weight: 700;
   text-transform: uppercase;
   font-size: 10px;
-
-  height: 1.2em;
+  height: auto;
   width: 95%;
   margin-top: 0em;
-  float: right;
   text-align: center;
   z-index: 1;
   position: relative;
@@ -1507,7 +1502,7 @@ a.newer-posts:hover {
   }
 
   .post-img {
-    width: 50%;
+    width: 45%;
     padding-left: 10px;
     padding-right: 10px;
   }
