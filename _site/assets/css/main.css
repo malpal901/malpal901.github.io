@@ -1293,6 +1293,8 @@ a.newer-posts:hover {
 
 .post-img {
   width: 25%;
+  height: auto;
+  padding-bottom: 10px;
 }
 .post-img.block {
   display: block;
@@ -1304,7 +1306,7 @@ a.newer-posts:hover {
 }
 .post-img.block img {
   height: auto;
-  width: 100%;
+  width: auto;
 }
 .post-img.right-inline {
   display: inline;
@@ -1315,19 +1317,18 @@ a.newer-posts:hover {
   float: left;
 }
 .post-img img {
-  height: 350px;
+  height: auto;
   width: auto;
 }
 .post-img figcaption {
-  color: rgba(255, 255, 255, 0.7);
-  text-shadow: 0 1px 5px rgba(0, 0, 0, 0.2);
+  color: grey;
   font-weight: 700;
   text-transform: uppercase;
   font-size: 10px;
 
   height: 1.2em;
   width: 95%;
-  margin-top: -2.8em;
+  margin-top: 0em;
   float: right;
   text-align: center;
   z-index: 1;

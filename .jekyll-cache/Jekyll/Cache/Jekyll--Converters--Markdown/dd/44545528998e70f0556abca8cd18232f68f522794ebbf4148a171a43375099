@@ -1,37 +1,26 @@
----
-layout: post # required
-title: On My First Week
-date: 2020-10-09
-description:  How my first week felt.
-img:  10-09-coverphoto.jpeg
-fig-caption: My beautiful town where my schools are, L'Isle-sur-la-Sorgue
-tags: [Adjustment, Moving, Avignon, Transition]
-comments: True
----
-<figure class="post-img right-inline">
+I"�<figure class="post-img right-inline">
   <a href="/assets/img/posts/2020-10-09/airbnbview.jpeg">
-    <img src="/assets/img/posts/2020-10-09/airbnbview.jpeg">
+    <img src="/assets/img/posts/2020-10-09/airbnbview.jpeg" />
   </a>
   <figcaption class="post-right">View from my AirBnB</figcaption>
 </figure>
 
-Salut tout le monde! It has been a week since I’ve arrived in France and here we are. A week filled with tears, happiness, successes, failures, and everything in between.
+<p>Salut tout le monde! It has been a week since I’ve arrived in France and here we are. A week filled with tears, happiness, successes, failures, and everything in between.</p>
 
-
-It has not been an easy week, but I knew it wouldn’t be (I just don’t think I realized that as I spent my last month at home saying goodbye to friends, finishing my job, packing, and enjoying living in the comfort of my parents’ home). It has been filled with lots of tears and moments of questioning why I did this in general, and also why I did this in the middle of a pandemic. The hardest part for me is not knowing if my loved ones will be able to visit me while I am here, and I need to keep reminding myself to take it one day at a time. Everything is temporary, including this situation, therefore I should enjoy it as much as possible. When else in my life will I be living alone in the south of France and teaching a mere 12 hours a week (which I don’t have to start doing until November anyway….)  
+<p>It has not been an easy week, but I knew it wouldn’t be (I just don’t think I realized that as I spent my last month at home saying goodbye to friends, finishing my job, packing, and enjoying living in the comfort of my parents’ home). It has been filled with lots of tears and moments of questioning why I did this in general, and also why I did this in the middle of a pandemic. The hardest part for me is not knowing if my loved ones will be able to visit me while I am here, and I need to keep reminding myself to take it one day at a time. Everything is temporary, including this situation, therefore I should enjoy it as much as possible. When else in my life will I be living alone in the south of France and teaching a mere 12 hours a week (which I don’t have to start doing until November anyway….)</p>
 
 <figure class="post-img left-inline">
   <a href="/assets/img/posts/2020-10-09/morelsls.jpeg">
-    <img src="/assets/img/posts/2020-10-09/morelsls.jpeg">
+    <img src="/assets/img/posts/2020-10-09/morelsls.jpeg" />
   </a>
-  <figcaption>L'Isle-sur-la-Sorgue is famous for its water wheels and waterways</figcaption>
-</figure>
+  <figcaption>L'Isle-sur-la-Sorgue is famous for its water wheels and waterways/figcaption&gt;
+&lt;/figure&gt;
 
 I had planned on spending my first week in the town where I am assigned to teach, L’Isle-sur-la-Sorgue. It is a town famous for its vast Sunday market and antique fairs. It has many adorable shops, cute bistros, and little canals and pedestrian bridges over its waterways. My AirBnB is a little apartment that has everything I need to spend a couple of days, except other people. I felt very isolated the first few days because I knew no one in the town. Coming off of spending the past six months living in a condo with my entire family and seeing tons of people before I left, this was challenging. I realized I am not good at quiet. The mornings have been the hardest part of the day for me, when no one back home is awake. I listen to lots of podcasts because hearing English and the American accents calms me, and staying connected to the news makes me feel tied to home.  
 
 <figure class="post-img right-inline">
   <a href="/assets/img/posts/2020-10-09/foodmarche.jpeg">
-    <img src="/assets/img/posts/2020-10-09/foodmarche.jpeg">
+    <img src="/assets/img/posts/2020-10-09/foodmarche.jpeg" />
   </a>
   <figcaption>Food from the famous Sunday market!</figcaption>
 </figure>
@@ -41,7 +30,7 @@ I move to a longer term AirBnB in the bigger city of Avignon this afternoon, and
 
 <figure class="post-img left-inline">
   <a href="/assets/img/posts/2020-10-09/avignonchurch.jpeg">
-    <img src="/assets/img/posts/2020-10-09/avignonchurch.jpeg">
+    <img src="/assets/img/posts/2020-10-09/avignonchurch.jpeg" />
   </a>
   <figcaption>A beautiful park and church right in downtown Avignon.</figcaption>
 </figure>
@@ -50,7 +39,7 @@ I am in a truly beautiful region of France that I am excited to explore more of 
 
 <figure class="post-img block">
   <a href="/assets/img/posts/2020-10-09/moreavignon.jpeg">
-    <img src="/assets/img/posts/2020-10-09/moreavignon.jpeg">
+    <img src="/assets/img/posts/2020-10-09/moreavignon.jpeg" />
   </a>
   <figcaption>The view of Avignon from the island in the middle of the river - you can see the Palais des Papes from here</figcaption>
 </figure>
@@ -68,7 +57,9 @@ Some observations from my first week:
 
 <figure class="post-img block">
   <a href="/assets/img/posts/2020-10-09/friendsavignon.jpg">
-    <img src="/assets/img/posts/2020-10-09/friendsavignon.jpg">
+    <img src="/assets/img/posts/2020-10-09/friendsavignon.jpg" />
   </a>
   <figcaption>Drinking wine on the border of the Rhône river with new friends.</figcaption>
 </figure>
+</figcaption></figure>
+:ET
