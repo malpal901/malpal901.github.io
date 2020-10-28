@@ -1,6 +1,5 @@
 title: Travels with Mally
-description: > # this means to ignore newlines until "baseurl:"
-  Tales of an American who moved to the south of France during the coronavirus pandemic.
+description: Tales of an American who moved to the south of France during the coronavirus pandemic.
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.travelswithmally.com" # the base hostname & protocol for your site, e.g. http://example.com
@@ -29,7 +28,3 @@ paginate: 8
 paginate_path: "/page/:num"
 
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
-
-collections:
-  dev:
-    output: true
