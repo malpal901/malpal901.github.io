@@ -12,7 +12,7 @@ comments: True
   <a href="/assets/img/posts/2020-10-09/View from the AirBnB.jpeg">
     <img src="/assets/img/posts/2020-10-09/View from the AirBnB.jpeg">
   </a>
-  <figcaption class="post-right">View from my AirBnB</figcaption>
+  <figcaption>View from my AirBnB</figcaption>
 </figure>
 
 Salut tout le monde! It has been a week since I’ve arrived in France and here we are. A week filled with tears, happiness, successes, failures, and everything in between.
