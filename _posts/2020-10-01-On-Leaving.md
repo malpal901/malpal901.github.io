@@ -3,7 +3,7 @@ layout: post
 title: On Leaving
 date: 2020-10-01
 description:  My thoughts on leaving for France at a very weird time.
-img: 10-01-coverphoto.jpeg
+img: Springtime.jpeg
 fig-caption: A photo from my last time in France - Paris in May 2017.
 tags: [France, Travel, Departure, Moving]
 comments: True

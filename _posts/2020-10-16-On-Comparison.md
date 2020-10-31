@@ -3,7 +3,7 @@ layout: post
 title: On Comparison
 date: 2020-10-16
 description:  The importance of comparison - doing it and not doing it.
-img:  10-16-coverphoto.JPG
+img:  Foliage.JPG
 fig-caption: Fall in Avignon
 tags: [transition, Provence]
 comments: True

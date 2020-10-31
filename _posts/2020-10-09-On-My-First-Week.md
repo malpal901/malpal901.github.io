@@ -3,7 +3,7 @@ layout: post # required
 title: On My First Week
 date: 2020-10-09
 description:  How my first week felt.
-img:  10-09-coverphoto.jpeg
+img:  River.jpeg
 fig-caption: My beautiful town where my schools are, L'Isle-sur-la-Sorgue
 tags: [Adjustment, Moving, Avignon, Transition]
 comments: True
