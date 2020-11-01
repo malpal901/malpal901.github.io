@@ -21,8 +21,8 @@ Salut tout le monde! It has been a week since I’ve arrived in France and here 
 It has not been an easy week, but I knew it wouldn’t be (I just don’t think I realized that as I spent my last month at home saying goodbye to friends, finishing my job, packing, and enjoying living in the comfort of my parents’ home). It has been filled with lots of tears and moments of questioning why I did this in general, and also why I did this in the middle of a pandemic. The hardest part for me is not knowing if my loved ones will be able to visit me while I am here, and I need to keep reminding myself to take it one day at a time. Everything is temporary, including this situation, therefore I should enjoy it as much as possible. When else in my life will I be living alone in the south of France and teaching a mere 12 hours a week (which I don’t have to start doing until November anyway….)  
 
 <figure class="post-img left-inline">
-  <a href="/assets/img/posts/2020-10-09/Sunset in L'Isle-sur-la-Sorgue.jpeg">
-    <img src="/assets/img/posts/2020-10-09/Sunset in L'Isle-sur-la-Sorgue.jpeg">
+  <a href="/assets/img/posts/2020-10-09/Sunset in L Isle-sur-la-Sorgue.jpeg">
+    <img src="/assets/img/posts/2020-10-09/Sunset in L Isle-sur-la-Sorgue.jpeg">
   </a>
   <figcaption>L'Isle-sur-la-Sorgue is famous for its water wheels and waterways</figcaption>
 </figure>
@@ -49,8 +49,8 @@ I move to a longer term AirBnB in the bigger city of Avignon this afternoon, and
 I am in a truly beautiful region of France that I am excited to explore more of (as well as the rest of the country). The people here have been much nicer than many of the Parisians I’ve encountered in my life. The food is of course delicious, and the wine is very cheap, though I’ve also been drinking a fair amount of beer. While I am very homesick still and crave bits of America, I know with time I will start listening to French podcasts, getting to know French music, making French friends, and cooking French food. I am appreciative of everything in my life that has led me here, and I am trying my best to take full advantage of it. I find myself at times feeling regretful of my first few months of college, when I was miserably homesick and instead of joining clubs or making friends I sat in my room crying or calling my parents. I am older now, and I am a stronger person. I can do anything I set my mind to, whether that is getting out of bed in the morning, making it through a day without crying, or spending 7ish months in France.  
 
 <figure class="post-img block">
-  <a href="/assets/img/posts/2020-10-09/The view of the pope's palace.jpeg">
-    <img src="/assets/img/posts/2020-10-09/The view of the pope's palace.jpeg">
+  <a href="/assets/img/posts/2020-10-09/The view of the popes palace.jpeg">
+    <img src="/assets/img/posts/2020-10-09/The view of the popes palace.jpeg">
   </a>
   <figcaption>The view of Avignon from the island in the middle of the river - you can see the Palais des Papes from here</figcaption>
 </figure>
