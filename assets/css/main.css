@@ -1290,7 +1290,9 @@ a.newer-posts:hover {
   text-decoration: underline;
 }
 
-
+.desktop-padding {
+  margin-bottom: 15px;
+}
 .post-img {
   width: 25%;
   height: auto;
