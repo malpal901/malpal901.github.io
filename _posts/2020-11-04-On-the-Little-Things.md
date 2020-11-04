@@ -65,7 +65,8 @@ I honestly didn't think I'd be adding to this list during reconfinement because 
 </figure>
 
 I cannot post a blog post at this time without acknowledging the impact of the election in the United States. There has been a major focus on self-care during this election and I want to emphasize that as well. Making this list, writing this post and this blog, and a lot of the things on this list are not just moments of happiness, but moments of self-care as well. As I grow more and more dismayed about the state of our country and the fact that nearly 70 million people decided yet again that racism, homophobia, sexism, and being a downright criminal are not dealbreakers, I try to remember the little things to make me happy and to keep me sane. I invite you to do the same.
-  
+
+<hr>
 
 - sitting and reading by the fire while my french father plays piano and sings
 - taking siestas and waking up as the sun sets
