@@ -57,6 +57,7 @@ I honestly didn't think I'd be adding to this list during reconfinement because 
   <figcaption>I went to Gourdes when I was 15 but couldn't find any pictures. I do remember it being this stunning though.</figcaption>
 </figure>
 
+<div style="padding-bottom:1px;">
 <figure class="post-img left-inline">
   <a href="/assets/img/posts/2020-11-04/Ochre red.jpeg">
     <img src="/assets/img/posts/2020-11-04/Ochre red.jpeg">
@@ -66,6 +67,7 @@ I honestly didn't think I'd be adding to this list during reconfinement because 
 
 I cannot post a blog post at this time without acknowledging the impact of the election in the United States. There has been a major focus on self-care during this election and I want to emphasize that as well. Making this list, writing this post and this blog, and a lot of the things on this list are not just moments of happiness, but moments of self-care as well. As I grow more and more dismayed about the state of our country and the fact that nearly 70 million people decided yet again that racism, homophobia, sexism, and being a downright criminal are not dealbreakers, I try to remember the little things to make me happy and to keep me sane. I invite you to do the same.
 
+</div>
 <hr>
 
 - sitting and reading by the fire while my french father plays piano and sings
