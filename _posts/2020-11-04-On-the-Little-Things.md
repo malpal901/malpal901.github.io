@@ -80,7 +80,6 @@ I cannot post a blog post at this time without acknowledging the impact of the e
 <br>
 <br>
 <br>
-
 - sitting and reading by the fire while my french father plays piano and sings
 - taking siestas and waking up as the sun sets
 
