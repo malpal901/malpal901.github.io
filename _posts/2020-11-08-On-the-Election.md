@@ -1,0 +1,24 @@
+---
+layout: post # required
+title: On the Election # required
+date: 2020-11-08 # date of post, time optional YYYY-MM-DD (HH:MM:SS)
+description:  Some thoughts on spending the election in France (in confinement). # Add post description for homepage - required
+img:  Cheese.jpeg # Add image to post - will be used as thumbnail on home and cover image for post (optional) MUST BE IN /img FOLDER.
+fig-caption: The true meaning of self care: a cheese plate with wine while doing a face mask and a lit candle. # caption for img (optional)
+tags: [election, biden, confinement, harris, France] # add tags within brackets separated by a commma (optional)
+comments: True # must include. change to False if you want to turn comments off for a post
+---
+
+It was a historic week. It is not finalized yet, and we have a lot more work to do. But I wanted to share some thoughts I had on spending the election in France. During a lockdown when I couldn't celebrate with fellow Americans.
+
+On Tuesday, I was teaching at one my schools. Since I'm six hours ahead, there wasn't any real news about the polls until after I had gone to sleep. It literally felt like any other normal day. No one even asked me about the election until 4 PM, when one of the teachers mentioned she knew it was an important day for America and asked if I could explain to the 8-year-olds why. In English. Needless to say that was a dumpster fire (kind of like America for the last four years [some could argue for the last 250 years]).
+
+I kind of got the best end of the deal because I was able to go to sleep before any results were in (no chance of my staying up till 1 am just for the first states) and wake up with some amount of results. The difference with this time was that I didn't get to wake up knowing our next president. Wednesday was a little tough because I felt very impatient not only waiting for everyone to wake up, but waiting to hear more news. I also couldn't go and hang out with other Americans in Avignon due to the confinement. I tried to avoid the news and go about my midweek day off as though nothing special was happening.
+
+One thing I am very grateful for during the past week is that I was able to selectively tune into the news when I wanted to. I could check my phone when I felt like it, but it wasn't a constant noise going on in the foreground like I imagine in America. I remember this from the early quarantine days in March/April too - it was all anybody could talk about and it felt incessant and constant. News should not be on a 24-hour basis. It was such a relief to know that I could choose when I wanted to tune in (and I know a privilege too), and I wish it could have been this way for everyone. It really helped me stay sane. Come Thursday, I was impatient but back to teaching. I didn't dwell on checking the numbers too much because I knew it could be weeks or months. I just felt lucky that I was able to remind myself that.
+
+While nothing changed on Friday, I did unwind with the aforementioned cheese plate. It was actually not awful being alone at this point because I felt like the silence was serene, almost. Like the eye of a hurricane. I guess also, since I'm in confinement and not regularly interacting with French people, it's not like people were asking me my opinion. I remember being in France in 2017 when Trump was getting inaugurated, and everyone wanted to know my opinion. Not the case this time, but perhaps for the better.
+
+On Saturday, the news came in while I was on a run. As I was listening to Hamilton. It started to pour but I kept running because I was so ecstatic. Once it was too slippery to walk without losing my balance, I went inside. That's when I stopped being in my beautiful "being in France during this election is great " bubble. I didn't get to celebrate with everyone in America. I saw all of the Instagram and Snapchat stories, the news alerts, the Facebook posts. I felt a lot of FOMO. I just wanted to hear people honking and shouting in the streets. But I'm not in America. I'm also not in a super large city with a significant expat population. This is a historic time in American history and I am quite frankly crushed I can't be there.
+
+I felt guilty leaving America at her hour of need, but I also didn't entertain the possibility of Biden winning. I think I was worried about jinxing it. But I knew we will be celebrating for months and years to come. And I also know that yesterday's celebrations are a beginning to the work we have yet to do for this country, and I am even more excited to do the work and participate in rebuilding our democracy.
