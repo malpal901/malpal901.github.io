@@ -4,7 +4,7 @@ title: On the Election # required
 date: 2020-11-08 # date of post, time optional YYYY-MM-DD (HH:MM:SS)
 description:  Some thoughts on spending the election in France (in confinement). # Add post description for homepage - required
 img:  Cheese.jpeg # Add image to post - will be used as thumbnail on home and cover image for post (optional) MUST BE IN /img FOLDER.
-fig-caption: The true meaning of self care: a cheese plate with wine while doing a face mask and a lit candle. # caption for img (optional)
+fig-caption: The true meaning of self care - a cheese plate with wine while doing a face mask and a lit candle. # caption for img (optional)
 tags: [election, biden, confinement, harris, France] # add tags within brackets separated by a commma (optional)
 comments: True # must include. change to False if you want to turn comments off for a post
 ---
