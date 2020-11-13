@@ -1,0 +1,22 @@
+---
+layout: post # required
+title: On Disconnecting # required
+date: 2020-11-13 # date of post, time optional YYYY-MM-DD (HH:MM:SS)
+description:  Thoughts on disconnecting at French mealtimes. # Add post description for homepage - required
+img:  Rhone.jpeg # Add image to post - will be used as thumbnail on home and cover image for post (optional) MUST BE IN /img FOLDER.
+fig-caption: The Palais des Papes from L'Île de la Barthelasse, with the Rhône in the foreground. # caption for img (optional)
+tags: [social media, phones, disconnecting] # add tags within brackets separated by a commma (optional)
+comments: True # must include. change to False if you want to turn comments off for a post
+---
+
+This past Sunday, I broke free from the restraints of quarantine (safely!) and dined at a mutual friend’s house in Avignon for lunch. The Sunday lunch for French people is somewhat of a ritual. They go to the market on Saturday or Sunday morning, get what looks fresh, and cook something delicious and simple. This woman, Marlène, had invited four friends over (plus me, the American guest). Not all of the friends knew each other, and no one knew me. One person brought wine, one person brought dessert. I brought myself (and an American perspective that I only inserted when asked, unlike Emily Cooper).
+
+I had noticed this before in my previous travels to France (and to an extent, the rest of Europe) - the lack of reliance on cell phones. I wrote in an earlier blog post how French people tend to do one thing at one time, including NOT walking and talking on the phone/scrolling Instagram/texting. In the weeks I’ve been here, I have made a conscious effort to be more present when I’m walking around (spurred in large part by the elderly Frenchman who once told me to watch where I’m going).
+
+In any event, here I am at this Sunday lunch. The adults were all probably a bit younger than my parents, and me (the millennial/Gen Zer). For three hours straight, not a single person pulled out a phone. And when someone finally did, it was to convert inches to centimeters (they wanted to know how tall I was). While this may not seem like a massive feat since I was the only millennial, I find that most adults in their 40s, 50s, and 60s still use their phones a large amount. They’re not on Instagram or TikTok, but they’re playing Solitaire and checking Facebook Messenger. It was truly wonderful. I felt so present (and not just because I was focusing hard on understanding the French)! I forgot about quarantine, I forgot about being homesick, and I truly enjoyed the meal. We ate slowly. We had great conversation. We laughed. They explained things to me. I contributed American perspectives.
+
+A similar thing happened when I spent my random weekend outside of Aix with all the strangers. At dinner and lunch the next day, amongst some 60 year olds and some 30 year olds, it was the same. No one took out their phone. French people really know how to be present. It’s not even about disconnecting for them - this is the norm. When they take out their phones; that’s when they get connected. Even today, sitting having lunch with the teachers in the lounge. It wasn’t a three hour multi course lunch. But we didn’t take out our phones and everyone was engaged.
+
+I think I could be hyper aware to this now as I’m reading a book called “How to do Nothing,” which is all about resisting the attention economy. My mealtimes in France I think reflect a different way of doing nothing, but I am so grateful for this chance to be present where my feet are. I think all this time during confinement, even though it’s only been ten days, has inspired me to be more present. Since I have all this free time, I’m forcing myself to do one thing at one time and not over schedule. I don’t need to worry about not having enough time - I have plenty. I also think it could be why I’m not sleeping as well - I’m not overstimulated during the day, so I’m less tired. Who knows. At this point I’m just speculating.
+
+It’s crazy how quickly the words flow out of me when I’m writing what comes to my mind instead of scheduling specific blogging time. I should remember this next time I get too focused on my plans. I also just think it’s easier to write when I feel inspired, and after not only experiencing such a present and disconnected meal but reading about the importance of doing nothing I knew I had to write something. 
