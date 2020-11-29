@@ -80,8 +80,8 @@ Day 19: I felt weirdly lonely for most of today. I guess it’s not weird seeing
 Day 20: How do I get myself to motivate earlier when I have nothing going on? This is the eternal issue of confinement. I woke up at 10, laid in bed till 11, then I just kind of vegged around till 2. At that point I was like okay Mal you have a day off. Get moving. So I decided to clean my bathroom. First time cleaning a bathroom at 24, I am ashamed to admit. I went for a run and ran into some assistants on my run which was a pleasant surprise. Then I went grocery shopping as I had plans to make pasta with another assistant tonight. As usual, I went to each of the specialty stores. It takes longer but it’s so enjoyable. Also, everything’s better quality because that store specializes in one thing. Then I began cooking. Honestly, cooking in this kitchen isn’t the easiest as I have no measuring implements. The pasta was good but not the MOST flavorful - I think I need to let it simmer for longer. Also, I undercooked it at first and the assistant I was with was shook. Way different from the roast chicken he made us on Sunday. But overall it was a nice evening and I was proud of myself for going out of my comfort zone.
 
 <figure class="post-img block">
-  <a href="/assets/img/posts/2020-11-29/Festive vibes in L'Isle.jpeg">
-    <img src="/assets/img/posts/2020-11-29/Festive vibes in L'Isle.jpeg">
+  <a href="/assets/img/posts/2020-11-29/Festive vibes in LIsle.jpeg">
+    <img src="/assets/img/posts/2020-11-29/Festive vibes in LIsle.jpeg">
   </a>
   <figcaption>Like I said - France loves Christmas decorations.</figcaption>
 </figure>
