@@ -19,8 +19,8 @@ comments: True # must include. change to False if you want to turn comments off 
 I don't have a lot to write about since it has only been four days since my last post. But since my phone is broken I haven't been able to post pictures on Instagram, so I thought instead I could post pictures that my friends have taken over the past few days before I go home for Christmas.
 
 <figure class="post-img block">
-  <a href="/assets/img/posts/2020-12-13/Amigas in L'Isle.jpeg">
-    <img src="/assets/img/posts/2020-12-13/Amigas in L'Isle.jpeg">
+  <a href="/assets/img/posts/2020-12-13/Amigas in LIsle.jpeg">
+    <img src="/assets/img/posts/2020-12-13/Amigas in LIsle.jpeg">
   </a>
   <figcaption>Gal pals (Briar, Becca, and Hannah) hanging out by some Christmas decorations in L'Isle-sur-la-Sorgue.</figcaption>
 </figure>
