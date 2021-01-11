@@ -84,7 +84,7 @@ It was a great last week before I get to go home for Christmas! This week I'm es
 
 <figure class="post-img block">
   <a href="/assets/img/posts/2020-12-13/Recycled paper chains.jpg">
-    <img src="/assets/img/posts/2020-12-13/Recyled paper chains.jpg">
+    <img src="/assets/img/posts/2020-12-13/Recycled paper chains.jpg">
   </a>
   <figcaption>Getting this paper chain hung from the beam was no easy feat and truly so comical watching Helen and Becca team up to get it done.</figcaption>
 </figure>
