@@ -3,7 +3,7 @@ layout: post # required
 title: On Life Without a Working Phone # required
 date: 2021-01-07 # date of post, time optional YYYY-MM-DD (HH:MM:SS)
 description:  Some thoughts on my two weeks without a functioning phone. # Add post description for homepage - required
-img:  Christmas.JPG # Add image to post - will be used as thumbnail on home and cover image for post (optional) MUST BE IN /img FOLDER.
+img:  Christmas.jpg # Add image to post - will be used as thumbnail on home and cover image for post (optional) MUST BE IN /img FOLDER.
 fig-caption: I sadly never took a picture of how broken my phone was. But that also wouldn't make for the best post photo either. I did take this picture of my festive town with my iPad. Like a classic American tourist. # caption for img (optional)
 tags: [phone, broken, pandemic, Apple, Christmas, France] # add tags within brackets separated by a commma (optional)
 comments: True # must include. change to False if you want to turn comments off for a post

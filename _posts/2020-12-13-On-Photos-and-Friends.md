@@ -19,15 +19,15 @@ comments: True # must include. change to False if you want to turn comments off 
 I don't have a lot to write about since it has only been four days since my last post. But since my phone is broken I haven't been able to post pictures on Instagram, so I thought instead I could post pictures that my friends have taken over the past few days before I go home for Christmas.
 
 <figure class="post-img block">
-  <a href="/assets/img/posts/2020-12-13/Amigas in L'Isle.jpeg">
-    <img src="/assets/img/posts/2020-12-13/Amigas in L'Isle.jpeg">
+  <a href="/assets/img/posts/2020-12-13/Amigas in LIsle.jpeg">
+    <img src="/assets/img/posts/2020-12-13/Amigas in LIsle.jpeg">
   </a>
   <figcaption>Gal pals (Briar, Becca, and Hannah) hanging out by some Christmas decorations in L'Isle-sur-la-Sorgue.</figcaption>
 </figure>
 
 <figure class="post-img left-inline">
   <a href="/assets/img/posts/2020-12-13/Amigas.jpg">
-    <img src="/assets/img/posts/2020-121-3/Amigas.jpg">
+    <img src="/assets/img/posts/2020-12-13/Amigas.jpg">
   </a>
   <figcaption>Anisha, Helen, and Becca (and Becca's fun pants) at our Christmas party.</figcaption>
 </figure>
@@ -43,7 +43,7 @@ Even though it hasn't been easy, having a group of friends here (largely Angloph
 
 <figure class="post-img right-inline">
   <a href="/assets/img/posts/2020-12-13/Bluebird day.jpeg">
-    <img src="/assets/img/posts/2020-121-3/Bluebird day.jpeg">
+    <img src="/assets/img/posts/2020-12-13/Bluebird day.jpeg">
   </a>
   <figcaption>The weather this past week was honestly dreadful, but it brightened up for the Sunday market!</figcaption>
 </figure>
@@ -59,7 +59,7 @@ This week, I spent time having a relaxing wine night while listening to the new 
 
 <figure class="post-img left-inline">
   <a href="/assets/img/posts/2020-12-13/Dried flowers.jpeg">
-    <img src="/assets/img/posts/2020-121-3/Dried flowers.jpeg">
+    <img src="/assets/img/posts/2020-12-13/Dried flowers.jpeg">
   </a>
   <figcaption>These dried flowers and wooden trees were gorgeous.</figcaption>
 </figure>
@@ -75,7 +75,7 @@ I also spent time with some French people as well, and was reminded for the nth 
 
 <figure class="post-img right-inline">
   <a href="/assets/img/posts/2020-12-13/Market scenes.jpeg">
-    <img src="/assets/img/posts/2020-121-3/Market scenes.jpeg">
+    <img src="/assets/img/posts/2020-12-13/Market scenes.jpeg">
   </a>
   <figcaption>View of some of the stalls of the market from the banks of the river.</figcaption>
 </figure>
@@ -84,14 +84,14 @@ It was a great last week before I get to go home for Christmas! This week I'm es
 
 <figure class="post-img block">
   <a href="/assets/img/posts/2020-12-13/Recycled paper chains.jpg">
-    <img src="/assets/img/posts/2020-12-13/Recyled paper chains.jpg">
+    <img src="/assets/img/posts/2020-12-13/Recycled paper chains.jpg">
   </a>
   <figcaption>Getting this paper chain hung from the beam was no easy feat and truly so comical watching Helen and Becca team up to get it done.</figcaption>
 </figure>
 
 <figure class="post-img left-inline">
   <a href="/assets/img/posts/2020-12-13/Santa.jpeg">
-    <img src="/assets/img/posts/2020-121-3/Santa.jpeg">
+    <img src="/assets/img/posts/2020-12-13/Santa.jpeg">
   </a>
   <figcaption>Santa??? Is that you???</figcaption>
 </figure>
@@ -107,7 +107,7 @@ The weather this week kind of sucked and was cold and I learned that French peop
 
 <figure class="post-img right-inline">
   <a href="/assets/img/posts/2020-12-13/Winter veggies.jpeg">
-    <img src="/assets/img/posts/2020-121-3/Winter veggies.jpeg">
+    <img src="/assets/img/posts/2020-12-13/Winter veggies.jpeg">
   </a>
   <figcaption>Excited for cooking in winter in France - all the cozy, soup, cheesy, warm vibes await.</figcaption>
 </figure>
@@ -123,7 +123,7 @@ I do think it's better from a global perspective, but man is it hard to get used
 
 <figure class="post-img right-inline">
   <a href="/assets/img/posts/2020-12-13/Eggnog making.jpeg">
-    <img src="/assets/img/posts/2020-121-3/Eggnog making.jpeg">
+    <img src="/assets/img/posts/2020-12-13/Eggnog making.jpeg">
   </a>
   <figcaption>Watching Hannah make homemade eggnog.</figcaption>
 </figure>
