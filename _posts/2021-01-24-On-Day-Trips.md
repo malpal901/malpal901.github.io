@@ -2,7 +2,7 @@
 layout: post # required
 title: On Day Trips # required
 date: 2021-01-24 # date of post, time optional YYYY-MM-DD (HH:MM:SS)
-description:  Traveling (even just 30 minutes away) does make me feel a bit better!. # Add post description for homepage - required
+description:  Traveling (even just 30 minutes away) does make me feel a bit better. # Add post description for homepage - required
 img:  Arena.jpeg # Add image to post - will be used as thumbnail on home and cover image for post (optional) MUST BE IN /img FOLDER.
 fig-caption: The famous arena in Nîmes was a sight to behold. # caption for img (optional)
 tags: [immersion, France, pandemic, language, travel, French] # add tags within brackets separated by a commma (optional)
