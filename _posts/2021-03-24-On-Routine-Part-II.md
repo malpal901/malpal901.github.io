@@ -1,0 +1,84 @@
+---
+layout: post # required
+title: On Routine, Part II # required
+date: 2021-03-24 # date of post, time optional YYYY-MM-DD (HH:MM:SS)
+description:  Time in Paris at the weirdest time on this Earth. # Add post description for homepage - required
+img:  Alpilles.jpeg # Add image to post - will be used as thumbnail on home and cover image for post (optional) MUST BE IN /img FOLDER.
+fig-caption: I went hiking in the Alpilles one day last week and it was absolutely lovely. # caption for img (optional)
+tags: [immersion, France, pandemic, language, travel, French, expat, America, Paris] # add tags within brackets separated by a commma (optional)
+comments: True # must include. change to False if you want to turn comments off for a post
+---
+
+I wrote a blog post a couple of weeks back about routine and how important it is to have one, but I figured I should follow up with my actual routine here because it looks so different from my daily life working full time in Boston.
+
+<figure class="post-img block">
+  <a href="/assets/img/posts/2021-03-24/Alpilles Again.jpeg">
+    <img src="/assets/img/posts/2021-03-24/Alpilles Again.jpeg">
+  </a>
+  <figcaption>Hiking in the Alpilles, where Van Gogh painted many a masterpiece.</figcaption>
+</figure>
+
+I also know it's been a while since I've posted so a lot of these pictures are from various different occasions. But all France!
+
+<figure class="post-img block">
+  <a href="/assets/img/posts/2021-03-24/Alpine feels.jpeg">
+    <img src="/assets/img/posts/2021-03-24/Alpine feels.jpeg">
+  </a>
+  <figcaption>Memories of Switzerland with the braids and mountains (and classic backpack of course).</figcaption>
+</figure>
+
+Since I only teach 3 days a week, it was a tough adjustment figuring out things to do on Wednesdays and Fridays (especially during confinement). But now I have a pretty good schedule. I figure there are definitely family members from home who are curious as well as one day I imagine I’ll want to look back on this and remember what life looked like here.
+
+<figure class="post-img block">
+  <a href="/assets/img/posts/2021-03-24/American food.jpeg">
+    <img src="/assets/img/posts/2021-03-24/American food.jpeg">
+  </a>
+  <figcaption>As I mention further down, the grocery store with only frozen food is amazing. Last week was America week and look at all of these options!</figcaption>
+</figure>
+
+On Mondays (because the French start the week with Monday and it makes way more sense) for my first 2ish months I wouldn’t wake up till 10:30 or 11 and eat a big brunch and then catch a 12:20 bus that got me to school right before class started. This was sort of stressful because if I need to make copies or run any ideas by the teachers I had 15 minutes (and they were usually finishing their own lesson planning so didn’t want to talk to me). Starting in January I started catching a 9:40 bus that gets in at 10:30. I usually wake up around 8:20, which is funny because that’s when I used to leave for work. I make a quick breakfast of toast and fruit and these days iced coffee and head off, reading and doing the crossword for my 50 minute ride. Once I get to L’Isle-sur-la-Sorgue, I usually head right to school and outline my lesson ideas before the teachers break for a two hour lunch break from 11:30-1:30. These two hours are the most French I speak on a weekly basis. I try to follow their conversations and discussions and occasionally chime in. They’ve usually brought a main dish, fruit for dessert, and yogurt. Sometimes they’ll add a salad. And they always have a baguette end to sop up the sauce. Then I teach for about 30-60 minutes in each class until 4:30, with one 30 minute break. It’s a sprint, not a marathon, and truly very exhausting to hop from class to class. My bus home isn’t till 5:30, so depending on the weather I either hang around school until I have to walk or walk around the town and stop at the grocery. Occasionally I nap on the bus home, but I usually read more. Once I get home, my roommate and I will usually work out for a little, cook dinner, eat around 8, then watch something or read or color the giant poster of France we bought.
+
+<figure class="post-img block">
+  <a href="/assets/img/posts/2021-03-24/Amigas and birthdays.JPG">
+    <img src="/assets/img/posts/2021-03-24/Amigas and birthdays.JPG">
+  </a>
+  <figcaption>Celebrating birthdays on the Rhône is always a good choice.</figcaption>
+</figure>
+
+Tuesdays and Thursdays follow the same rough formula, with the exception that Thursdays there’s the local market and I always spend time walking around and buying stuff for cooking dinner and talking to the cheesemonger who has become my friend (Steph). He gives the largest free samples and I always end up too hungry for lunch. I also sometimes walk to this grocery store that only does frozen dishes but they are all AMAZING. French people also swear by it. It’s called Picard and everything I’ve tried has been delicious. I can’t think of an American equivalent because it has the frozen aspect of Trader Joe’s but is distinctly French and does not offer any non-frozen things (except for the odd chips or crackers). And it’s next to a delicious bakery that does baguettes made with wheat grown in L’Isle-sur-la-Sorgue.
+
+<figure class="post-img block">
+  <a href="/assets/img/posts/2021-03-24/Arles.jpeg">
+    <img src="/assets/img/posts/2021-03-24/Arles.jpeg">
+  </a>
+  <figcaption>Arles was beautiful and it was cool to see the Rhône closer to the sea.</figcaption>
+</figure>
+
+Wednesdays and Fridays are a bit different since I don’t work. Now that it’s nicer and we don’t have confinement, I’ve been trying to go on day trips to nearby cities or day hikes. If I don’t do that, I will usually sleep in, sometimes have coffee with friends, go to Les Halles (indoor food hall in Avignon that has the best produce, meat, and cheese in the city/region) and get stuff for dinner. I like to go for a run too, and I’ve been trying to go to a new place for lunch each week. Then I usually nap or run errands / do laundry / go home and chill. Have a mid-week day off is amazing. I know have a three-day work week here, but I truly am a huge advocate these days for a four-day work week. It’s so nice to have a day where it’s not the weekend but you don’t have to worn and can run all your errands. I guess this is different in COVID times too because everything is remote.
+
+<figure class="post-img block">
+  <a href="/assets/img/posts/2021-03-24/Cake baking.jpeg">
+    <img src="/assets/img/posts/2021-03-24/Cake baking.jpeg">
+  </a>
+  <figcaption>We bake lots of cakes these days.</figcaption>
+</figure>
+
+Weekends of late have looked slightly different. With curfew, we try to take advantage of the daylight and do picnics or explore new towns and markets. Since people have to be home by 7, people sleep over a lot. It’s kind of like college but a lot tamer. Especially since everyone in Avignon lives within a 15 minute walk, it’s so easy to see people and meet up.
+
+<figure class="post-img block">
+  <a href="/assets/img/posts/2021-03-24/Exploring Arles.JPG">
+    <img src="/assets/img/posts/2021-03-24/Exploring Arles.JPG">
+  </a>
+  <figcaption>Exploring Arles as a group of Anglophone assistants. We definitely stand out.</figcaption>
+</figure>
+
+It’s definitely helped having a stable routine. Even in confinement, it looked fairly similar (with the difference being I had no roommate and therefore little motivation to work out / cook after school). But being very type A, I am definitely someone who thrives on routine and structure. Putting certain things in place every week has helped me not only fill my many idle hours but also feel a sense of place and purpose. Even if those things are just my weekly conversations with and purchases from the cheesemonger or Friday day trips, it’s a huge difference.
+
+<figure class="post-img block">
+  <a href="/assets/img/posts/2021-03-24/L'Isle and Yoda.jpeg">
+    <img src="/assets/img/posts/2021-03-24/L'Isle and Yoda.jpeg">
+  </a>
+  <figcaption>My town is doing a Carnaval ambiance idea where they are placing mannequins of famous characters around town. Kind of cute.</figcaption>
+</figure>
+
+It’s crazy to think how much my routine has changed since living and working in Boston and then COVID. And in a few months it’ll change again ! But change is part of life, as I have learned time and time again.

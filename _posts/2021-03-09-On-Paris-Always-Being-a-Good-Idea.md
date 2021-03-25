@@ -11,7 +11,7 @@ comments: True # must include. change to False if you want to turn comments off 
 
 <figure class="post-img block">
   <a href="/assets/img/posts/2021-03-09/Conran shop.jpeg">
-    <img src="/assets/img/posts/2021-02-20/Conran shop.jpeg">
+    <img src="/assets/img/posts/2021-03-09/Conran shop.jpeg">
   </a>
   <figcaption>This store was so cool, and just one of the many places we discovered.</figcaption>
 </figure>
@@ -20,7 +20,7 @@ The last two weeks we had vacation. It seems crazy to say this, but after seven 
 
 <figure class="post-img block">
   <a href="/assets/img/posts/2021-03-09/Coutume.jpeg">
-    <img src="/assets/img/posts/2021-02-20/Coutume.jpeg">
+    <img src="/assets/img/posts/2021-03-09/Coutume.jpeg">
   </a>
   <figcaption>The blue espresso machine, modern furniture, and old ceilings made Coutume a very vibey coffee shop.</figcaption>
 </figure>
@@ -29,7 +29,7 @@ Naturally, we decided to go to Paris. Margaret’s mom’s friend has an apartme
 
 <figure class="post-img block">
   <a href="/assets/img/posts/2021-03-09/Fleuri.jpeg">
-    <img src="/assets/img/posts/2021-02-20/Fleuri.jpeg">
+    <img src="/assets/img/posts/2021-03-09/Fleuri.jpeg">
   </a>
   <figcaption>When we arrived, these flowers were about to bloom. On our last day, they did!</figcaption>
 </figure>
@@ -38,7 +38,7 @@ It’s funny because I have adjusted fairly well to living in the south in my fa
 
 <figure class="post-img block">
   <a href="/assets/img/posts/2021-03-09/Invalides.jpeg">
-    <img src="/assets/img/posts/2021-02-20/Invalides.jpeg">
+    <img src="/assets/img/posts/2021-03-09/Invalides.jpeg">
   </a>
   <figcaption>I had never walked by Les Invalides and it was quite peaceful.</figcaption>
 </figure>
@@ -47,7 +47,7 @@ Our first day, I felt myself missing Avignon. I missed knowing that I could wand
 
 <figure class="post-img block">
   <a href="/assets/img/posts/2021-03-09/La Tour.jpeg">
-    <img src="/assets/img/posts/2021-02-20/La Tour.jpeg">
+    <img src="/assets/img/posts/2021-03-09/La Tour.jpeg">
   </a>
   <figcaption>A photo that needs no caption.</figcaption>
 </figure>
@@ -56,7 +56,7 @@ In the weeks leading up to this trip, and also much of the time I’ve spent in 
 
 <figure class="post-img block">
   <a href="/assets/img/posts/2021-03-09/Le bon marche.jpeg">
-    <img src="/assets/img/posts/2021-02-20/Le bon marche.jpeg">
+    <img src="/assets/img/posts/2021-03-09/Le bon marche.jpeg">
   </a>
   <figcaption>The famous Le Bon Marché, sadly closed.</figcaption>
 </figure>
@@ -65,7 +65,7 @@ After that first day of adjusting to la grande ville and remembering to look bot
 
 <figure class="post-img block">
   <a href="/assets/img/posts/2021-03-09/Le celebre.jpeg">
-    <img src="/assets/img/posts/2021-02-20/Le celebre.jpeg">
+    <img src="/assets/img/posts/2021-03-09/Le celebre.jpeg">
   </a>
   <figcaption>The classic sign.</figcaption>
 </figure>
@@ -74,7 +74,7 @@ Even though restaurants and bars were closed for dine-in, takeaway culture is al
 
 <figure class="post-img block">
   <a href="/assets/img/posts/2021-03-09/Parc a Paris.jpeg">
-    <img src="/assets/img/posts/2021-02-20/Parc a Paris.jpeg">
+    <img src="/assets/img/posts/2021-03-09/Parc a Paris.jpeg">
   </a>
   <figcaption>Walked around this gorgeous park on our last day.</figcaption>
 </figure>
@@ -83,7 +83,7 @@ The other thing we focused on was bakeries, since it’s France and those are co
 
 <figure class="post-img block">
   <a href="/assets/img/posts/2021-03-09/Parc encore.jpeg">
-    <img src="/assets/img/posts/2021-02-20/Parc encore.jpeg">
+    <img src="/assets/img/posts/2021-03-09/Parc encore.jpeg">
   </a>
   <figcaption>There were so many adorable French toddlers frolicking around.</figcaption>
 </figure>
@@ -92,7 +92,7 @@ Even though it was not the Paris I am accustomed to, it felt very special to see
 
 <figure class="post-img block">
   <a href="/assets/img/posts/2021-03-09/Parc trois.jpeg">
-    <img src="/assets/img/posts/2021-02-20/Parc trois.jpeg">
+    <img src="/assets/img/posts/2021-03-09/Parc trois.jpeg">
   </a>
   <figcaption>And, most importantly, a community garden.</figcaption>
 </figure>
