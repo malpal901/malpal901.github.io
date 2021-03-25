@@ -2,7 +2,7 @@
 layout: post # required
 title: On Routine, Part II # required
 date: 2021-03-24 # date of post, time optional YYYY-MM-DD (HH:MM:SS)
-description:  Time in Paris at the weirdest time on this Earth. # Add post description for homepage - required
+description:  As promised, routine part two. # Add post description for homepage - required
 img:  Alpilles.jpeg # Add image to post - will be used as thumbnail on home and cover image for post (optional) MUST BE IN /img FOLDER.
 fig-caption: I went hiking in the Alpilles one day last week and it was absolutely lovely. # caption for img (optional)
 tags: [immersion, France, pandemic, language, travel, French, expat, America, Paris] # add tags within brackets separated by a commma (optional)
