@@ -1,0 +1,37 @@
+---
+layout: post # required
+title: On Some Updates # required
+date: 2021-04-12 # date of post, time optional YYYY-MM-DD (HH:MM:SS)
+description:  Just some recent updates as it's been a minute! # Add post description for homepage - required
+img:  Sunset.jpeg # Add image to post - will be used as thumbnail on home and cover image for post (optional) MUST BE IN /img FOLDER.
+fig-caption: The sunsets from our apartment are gorgeous. # caption for img (optional)
+tags: [immersion, France, pandemic, language, travel, French, expat, America] # add tags within brackets separated by a commma (optional)
+comments: True # must include. change to False if you want to turn comments off for a post
+---
+<figure class="post-img block">
+  <a href="/assets/img/posts/2021-03-24/Sunset Uno.jpeg">
+    <img src="/assets/img/posts/2021-03-24/Sunset Uno.jpeg">
+  </a>
+  <figcaption>Can't not post these photos of the sunset and the street.</figcaption>
+</figure>
+
+I know it’s been more than a hot minute since I have blogged, but things have been kind of busy/ever-changing here. Since I last blogged, I talked about being frustrated with differing COVID responses and just all-around fatigued with this new normal, especially as things diverge between France responses and American.
+
+Ironically enough, just two days after I posted that, France announced a new lockdown with the addition of schools closing. This sent everyone into somewhat of a frenzy. The government said schools would do one week of remote learning, then a nationwide two-week spring break (normally the breaks are staged across three zones of France), with the plan to have elementary school students resume in-person learning the last week of April and middle/high school the first week of May. This meant for me 3 weeks of vacation and for my friends who taught high school and middle school, the end of the program (because our contracts end April 30).
+
+Despite it being the eve of my birthday, it didn’t feel very celebratory. While this confinement was more lax than the one we went through in November and the one last year, it still meant some significant changes to our life that we had finally adjusted to. We also knew this likely meant the last week for many people who hadn’t been home since October, and with schools closed no real reason to stay. The new rules for confinement mean all non-essential businesses are closed, with the exception of take-out for restaurants, hair salons, grocery stores (and any stores selling food/drink so wine stores, bakeries, and cheese shops are all still open - thank God), and a few select businesses such as bookstores and video game stores. Additionally, you can’t go further than 10 KM from your residence without a compelling reason. This means we can no longer go on day trips or quick weekend getaways nearby.
+
+While all of this news was quite disheartening seeing as things in America are starting to normalize and most people I know have gotten at least one injection of the vaccine, some good news happened in the past ten days - Jack made it here safely ! After not only getting an Icelandic visa and and safely quarantining and spending 16 days in Iceland (not to mention getting to see an erupting volcano), he made it here on my birthday ! While he arrived just in time for confinement, he also arrived when the rest of us were celebrating our last few days of freedom and all being together. Definitely launched right into French life and meeting everyone all at once.
+
+Since then it has largely been a nonstop hangout most every night and day because we as assistants do not have jobs and a couple of my close friends are leaving this week. It’s been a lot of emotions and a lot of things going on - happiness that Jack is here, sadness that people are leaving, anxiety at the uncertainty of the situation, frustration at the French government’s handling of the pandemic, and gratitude that I still have time to enjoy France and the weather is nice, and now I get to share it with Jack.
+
+One week of my unexpected three week vacation has passed, so for the next two weeks I will be working on catching up on the blog and getting myself back to regular posting, lots of cooking (especially slow recipes that require constant monitoring because I’ve got nothing but time), reading (just finished A Promised Land - while long, it was fascinating and I really enjoyed it), watching TV (finishing shows I’ve started months/years ago, Call my Agent, West Wing, some others), and getting some fresh air and enjoying spring in Provence.
+
+Another emotion that has also been weighing on me is homesickness. On the one hand, I feel guilty being homesick when I get to live in France and enjoy a three week vacation. I know this is not only a crazy opportunity, but also an era in my life that is unique in I will never have this much free time again. On the other hand, seeing America reopen and people safely congregate and go to restaurants and see friends is tough knowing France is weeks, even months away from that. Knowing I will probably be going home before then is hard because I won’t fully get to experience what a lively, pandemic-free Avignon is like. On top of that, I’ve been here for almost seven months. While I went home for Christmas, it’s a long time to live abroad during a pandemic. I’ve been living under a curfew since January, and I honestly don’t know what it will be like to be out and about at night. But I remind myself that America isn’t going anywhere, and home is a feeling, not a place. So I will be enjoying this relaxing time before law school starts in the fall. And once I get home, a vaccine !
+
+<figure class="post-img block">
+  <a href="/assets/img/posts/2021-03-24/Sunset Dos.jpeg">
+    <img src="/assets/img/posts/2021-03-24/Sunset Dos.jpeg">
+  </a>
+  <figcaption>Twenty minutes pass and you can see how different it looks.</figcaption>
+</figure>
