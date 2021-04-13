@@ -2,8 +2,8 @@
 layout: post # required
 title: On A Final Day Trip # required
 date: 2021-04-13 # date of post, time optional YYYY-MM-DD (HH:MM:SS)
-description:  The final day trip we took before confinement number 3: Aix-en-Provence and Lourmarin. # Add post description for homepage - required
-img:  Aix.jpeg # Add image to post - will be used as thumbnail on home and cover image for post (optional) MUST BE IN /img FOLDER.
+description: The final day trip we took before confinement number 3 Aix-en-Provence and Lourmarin. # Add post description for homepage - required
+img: Aix.jpeg # Add image to post - will be used as thumbnail on home and cover image for post (optional) MUST BE IN /img FOLDER.
 fig-caption: Colors of Aix-en-Provence - less alabaster than Avignon, more pinks and yellows. # caption for img (optional)
 tags: [immersion, France, pandemic, language, travel, French, expat, America, Luberon, Lourmarin, Aix-en-Provence, Provence, Aix] # add tags within brackets separated by a commma (optional)
 comments: True # must include. change to False if you want to turn comments off for a post
