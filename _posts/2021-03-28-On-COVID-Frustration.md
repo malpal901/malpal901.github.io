@@ -29,7 +29,7 @@ I feel badly complaining on the one hand because I know this is the opportunity 
 
 <figure class="post-img block">
   <a href="/assets/img/posts/2021-03-24/Calanques Beauty.jpeg">
-    <img src="/assets/img/posts/2021-03-24/Calanques.jpeg">
+    <img src="/assets/img/posts/2021-03-24/Calanques Beauty.jpeg">
   </a>
   <figcaption>Hiking in the Calanques de Marseille, which were absolutely stunning. And the weather was perfect.</figcaption>
 </figure>
