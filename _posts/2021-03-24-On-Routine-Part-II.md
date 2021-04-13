@@ -75,8 +75,8 @@ Weekends of late have looked slightly different. With curfew, we try to take adv
 It’s definitely helped having a stable routine. Even in confinement, it looked fairly similar (with the difference being I had no roommate and therefore little motivation to work out / cook after school). But being very type A, I am definitely someone who thrives on routine and structure. Putting certain things in place every week has helped me not only fill my many idle hours but also feel a sense of place and purpose. Even if those things are just my weekly conversations with and purchases from the cheesemonger or Friday day trips, it’s a huge difference.
 
 <figure class="post-img block">
-  <a href="/assets/img/posts/2021-03-24/L'Isle and Yoda.jpeg">
-    <img src="/assets/img/posts/2021-03-24/L'Isle and Yoda.jpeg">
+  <a href="/assets/img/posts/2021-03-24/LIsle and Yoda.jpeg">
+    <img src="/assets/img/posts/2021-03-24/LIsle and Yoda.jpeg">
   </a>
   <figcaption>My town is doing a Carnaval ambiance idea where they are placing mannequins of famous characters around town. Kind of cute.</figcaption>
 </figure>
