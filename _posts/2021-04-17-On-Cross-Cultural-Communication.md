@@ -3,7 +3,7 @@ layout: post # required
 title: On Cross Cultural Communication # required
 date: 2021-04-17 # date of post, time optional YYYY-MM-DD (HH:MM:SS)
 description: Hiking with my teacher and her husband, who speak French and little English, and Jack, who speaks English and little French. # Add post description for homepage - required
-img: Selfie.jpg # Add image to post - will be used as thumbnail on home and cover image for post (optional) MUST BE IN /img FOLDER.
+img: Selfie.JPG # Add image to post - will be used as thumbnail on home and cover image for post (optional) MUST BE IN /img FOLDER.
 fig-caption: Nothing like a good old selfie. # caption for img (optional)
 tags: [immersion, France, pandemic, language, travel, French, expat, America, Provence] # add tags within brackets separated by a commma (optional)
 comments: True # must include. change to False if you want to turn comments off for a post
